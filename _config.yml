@@ -1,0 +1,28 @@
+name: Homemaths
+favicon: null
+layout_spectrum: 0.8342092894017696
+typography_spectrum: 0.43987717502750456
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8878019240219146
+  lightness: 0.6520367763005197
+  saturation: 0.669579463545233
+  rhythmicContrast: 0.2512801138218492
+purpose: []
